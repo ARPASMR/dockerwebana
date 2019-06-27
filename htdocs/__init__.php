@@ -27,8 +27,8 @@
             // Parametri connessione al DATABASE (dbMeteo)
             $dbParams['host'] =     'localhost';
             $dbParams['db'] =       'METEO';
-            $dbParams['username'] = 'root';
-            $dbParams['password'] = 'radice';
+            $dbParams['username'] = '****';
+            $dbParams['password'] = '******';
         }
 
      // ##########################################
@@ -45,8 +45,8 @@
             // Parametri connessione al DATABASE (dbMeteo)
             $dbParams['host'] =     '127.0.0.1';
             $dbParams['db'] =       'METEO';
-            $dbParams['username'] = 'root';
-            $dbParams['password'] = 'chi66rone;';
+            $dbParams['username'] = '****';
+            $dbParams['password'] = '**********';
         }
      // ##########################################
      // ##### docker container               #####
@@ -59,8 +59,8 @@
             // Parametri connessione al DATABASE (dbMeteo)
             $dbParams['host'] =     '127.0.0.1';
             $dbParams['db'] =       'METEO';
-            $dbParams['username'] = 'root';
-            $dbParams['password'] = 'chi66rone;';
+            $dbParams['username'] = '****';
+            $dbParams['password'] = '**********';
 	}
 
     // ####  Importa librerie e classi  ####
